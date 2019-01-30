@@ -1,8 +1,9 @@
 # polkadot-staking
 
-### Running a Node
+### Running a Staking Node
 
 - [Parity Polkadot Github](https://github.com/paritytech/polkadot)
+- [Validating on PoC 3: Alexander](https://github.com/paritytech/polkadot/wiki/Validating-on-PoC-3-%22Alexander%22)
 
 ### Troubleshooting
 
