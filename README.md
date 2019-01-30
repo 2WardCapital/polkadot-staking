@@ -6,9 +6,9 @@
 
 ### Troubleshooting
 
-- [Offical Polkadot Watercooler Chat (riot)](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org)
+- [Offical Polkadot Watercooler Chat (ask here for testnet DOTs!)](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org)
 
-- [Offical Polkadot Technical Chat (riot)](https://riot.im/app/#/room/#polkadot-technical:matrix.org)
+- [Offical Polkadot Technical Chat](https://riot.im/app/#/room/#polkadot-technical:matrix.org)
 
 ### Tools
 
