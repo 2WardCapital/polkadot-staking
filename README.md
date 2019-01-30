@@ -13,3 +13,4 @@
 ### Tools
 
 - [Node / Chain Stats](https://telemetry.polkadot.io/)
+- [Validator Dashboard](http://polkadash.io/)
