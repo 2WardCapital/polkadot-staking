@@ -14,3 +14,7 @@
 
 - [Node / Chain Stats](https://telemetry.polkadot.io/)
 - [Validator Dashboard](http://polkadash.io/)
+
+### Security
+
+- [Validator Security](https://github.com/w3f/validator-security)
