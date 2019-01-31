@@ -17,4 +17,4 @@
 
 ### Security
 
-- [Validator Security](https://github.com/w3f/validator-security)
+- [Validator Security (general advice)](https://github.com/w3f/validator-security)
